@@ -7,9 +7,9 @@
 
 ### Core Python basics
 1. [Python prerequisites](lessons/01-python-prerequisites.md) — Planned
-2. [Variables and data types](lessons/02-variables-and-data-types.md) — Planned
-3. [Strings](lessons/03-strings.md) — Planned
-4. [Lists](lessons/04-lists.md) — Planned
+2. [Variables and data types](lessons/02-variables-and-data-types.md) — Drafted from live session
+3. [Strings](lessons/03-strings.md) — Drafted from live session
+4. [Lists](lessons/04-lists.md) — Drafted from live session
 5. [Tuples](lessons/05-tuples.md) — Planned
 6. [Dictionaries](lessons/06-dictionaries.md) — Planned
 7. [Sets](lessons/07-sets.md) — Planned
